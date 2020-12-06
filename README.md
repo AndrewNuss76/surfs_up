@@ -13,4 +13,4 @@ After conducting this analysis, there are some key data trends to highlight:
 ## Summary
 When evaluating both months, we can see that June is a warmer month compared to December, which logically makes sense. Based on this, we can understand that June will provide warmer days for business compared to December, which should help with sales at the Surf Shop. With that said, we would also want to know how 'wet' these two months were to ensure that not only with warmer days compared to December, that June is not a 'wash out' with heavy precipitation. To do this, we could query the precipitation levels for both months using a similar line of code to identify temperatures for each. The outcome from that query will show that June also is considered 'more dry' compared to December as it has on average less rain for the month. See the tables below:
 
-![June Rainfall](Resources/June_precip.png)
+![June Rainfall](Resources/June_precip.png)     ![December Rainfall](Resources/Dec_precip.png)
